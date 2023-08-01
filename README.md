@@ -1,1 +1,1 @@
-# EasyLearnVocab
+# EasyLearnVocabularies
